@@ -258,7 +258,7 @@ const HOMEPAGE_HTML = `
     </div>
 
     <footer class="mt-6 text-center text-gray-500 dark:text-gray-400">
-      Powered by <a href="https://github.com/fscarmen2/Cloudflare-Accel" class="text-blue-500 hover:underline">fscarmen2/Cloudflare-Accel</a>
+      Powered by <a href="https://github.com/XIAOKEAI0318/Cloudflare-Acce" class="text-blue-500 hover:underline">XIAOKEAI0318/Cloudflare-Acce</a>
     </footer>
   </div>
 
